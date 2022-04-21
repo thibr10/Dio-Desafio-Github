@@ -3,5 +3,4 @@
 Primeiro Desafio de Projeto sobre GIT/GITHUB
 
  -	Senhor Formoso És (Harpa Cristã 667)
-	-	
 

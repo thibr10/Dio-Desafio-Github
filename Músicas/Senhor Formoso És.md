@@ -6,7 +6,8 @@
 
 ##### Refrão
 
-​         E             A     B     B4  B <br />Senhor, formoso és
+​         E             A     B     B4  B <br />
+Senhor, formoso és
 ​          E               A  E    B  B4  B <br />
 Tua face eu que_ro ver <br />
 ​              C#m     G#m     A   B   E    C#m       F#m     B          E  A  B <br />

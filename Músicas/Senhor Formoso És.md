@@ -1,48 +1,37 @@
-#### Senhor Formoso És <br />
+#### Senhor Formoso És
 
-###### Harpa Cristã 664 <br />
+###### Harpa Cristã 664
 
-###### TOM: Mi Maior (E) <br />
+###### TOM: Mi Maior (E)
 
 ##### Refrão
 
-​         E             A     B     B4  B <br />Senhor, formoso és
-​          E               A  E    B  B4  B <br />
-Tua face eu que_ro ver <br />
-​              C#m     G#m     A   B   E    C#m       F#m     B          E  A  B <br />
-Pois quando estás  neste lu_gar,       tua graça invade-me <br />
+Senhor, formoso és
+Tua face eu que_ro ver
+Pois quando estás  neste lu_gar,       tua graça invade-me
 
 ##### Primeira Parte 
 
-​     E              A            B  B4  B <br />
-Acende a chama ó Pai <br />
-​         E        A           B     B4  B <br />
-Que uma vez brilhou <br />
-​              C#m      G#m         A   B    E  C#m      F#m       B           E    A  B <br />
-Vem limpar, brilhar, resplande_cer         o meu primeiro amor <br />
+Acende a chama ó Pai
+Que uma vez brilhou
+Vem limpar, brilhar, resplande_cer         o meu primeiro amor
 
 ##### Refrão <br />
 
-##### Repete a Primeira Parte <br />
+##### Repete a Primeira Parte
 
-##### Refrão sob meio tom <br />
+##### Refrão sob meio tom
 
-​         F              Bb  C    C4  C <br />Senhor, formoso és <br />
-​         F              Bb    F   C    C4  C <br />
-Tua face eu que__ro ver <br />
-​           Dm          Am       Bb  C    F    Dm          Gm      C         F     Bb  C <br />
-Pois quando estás  neste  lu_gar,       tua graça invade-me <br />
+Senhor, formoso és
+Tua face eu que__ro ver
+Pois quando estás  neste  lu_gar,       tua graça invade-me
 
-##### Repete a Primeira Parte  <br />
+##### Repete a Primeira Parte
 
-​     F               Bb         C      C4  C <br />
 Acende a chama ó Pai
-​         F        Bb         C     C4  C <br />
-Que uma vez brilhou <br />
-​               Dm        Am        Bb      C    F  Dm      Gm          C           F  <br />
+Que uma vez brilhou 
 Vem limpar, brilhar, respla_nde_cer        o meu primeiro amor
-​               Dm       Am         Bb     C     F  Dm       Gm         C           F  <br />
-Vem limpar, brilhar, respla_nde_cer        o meu primeiro amor. <br />
+Vem limpar, brilhar, respla_nde_cer        o meu primeiro amor.
 
 
 

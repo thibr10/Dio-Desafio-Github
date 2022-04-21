@@ -1,6 +1,7 @@
-## Lista de Músicas Cifradas:musical_score:
+## Lista de Louvores:musical_score:
 
 Primeiro Desafio de Projeto sobre GIT/GITHUB
 
- -	Senhor Formoso És (Harpa Cristã 667)
+ -	Em Fervente Oração (Harpa Cristã 667)
+ -	A Face Adorada de Jesus (Harpa Cristã 304)
 
